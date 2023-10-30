@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Lab_7": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Навчання\\ООП\\Lab_7\\Lab_7\\bin\\Debug\\net7.0\\Lab_7.exe"
+    }
+  }
+}
